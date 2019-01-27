@@ -1,7 +1,7 @@
 # PhoneBook
 To run a example: ```node index.js```
 
-#Files
+# Files
 * PhoneBook.js => class
 
 * numbers.txt => contains the numbers (some are invalid) used to test the creation of an instance of PhoneBook
